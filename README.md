@@ -1,1 +1,1 @@
-Hello World![C[C
+Hello World!
