@@ -16,6 +16,9 @@
 ### verificar os logs e historico de alterações
     $ git log
     
+### enviar as alterações para o github
+    $ git push origin master
+    
     
 
 
